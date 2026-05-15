@@ -12,12 +12,10 @@ ResumeIQ is a full-stack AI application that analyzes your resume and predicts t
 
 ## 📂 Datasets
 
-📁 **[Download Datasets](https://drive.google.com/drive/folders/1vS77_uku0VVUoEYt9zuLrbKXT33m_9I9?usp=sharing)**
-
-| Dataset | Source | Size | Used For |
+| Dataset | Download | Size | Used For |
 |---|---|---|---|
-| LinkedIn Job Postings | Kaggle | 123,849 jobs | Job role classification + cosine similarity |
-| Campus Placement | Kaggle | 215 records | Placement % prediction |
+| LinkedIn Job Postings | [Download](https://drive.google.com/drive/folders/1pSFV6pJpgB-pqT81n0rc0SHGL3TZB9tc?usp=sharing) | 123,849 jobs | Job role classification + cosine similarity |
+| Campus Placement | [Download](https://drive.google.com/drive/folders/174U_Fs3WpEzEQgPZfOYu_L2SZfgWyK7F?usp=sharing) | 215 records | Placement % prediction |
 
 ---
 
