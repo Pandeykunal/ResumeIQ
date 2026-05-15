@@ -27,16 +27,16 @@ Built with a two-layer ML matching system: a Random Forest classifier (87.91% ac
 
 | Feature | Description | Powered By |
 |---|---|---|
-| 🎯 **Primary Role Prediction** | Predicts best job role from resume | Random Forest (87.91% accuracy) |
-| 📊 **Role Confidence Score** | Confidence % of role prediction | Random Forest |
-| 📐 **Role Similarity Ranking** | Ranks all 19 roles by resume fit | TF-IDF Cosine Similarity |
-| 📈 **Placement Chance %** | Probability of getting placed | Logistic Regression (83.72% accuracy) |
-| 💰 **Salary Insights** | Average salary for predicted role | LinkedIn Dataset (123K+ jobs) |
-| 🔍 **Skills Detection** | Detects skills present in resume | ML Rule-based NLP Pipeline |
-| ❌ **Missing Skills** | Identifies skill gaps for target role | ML Role-Skill Mapping |
-| ⚠️ **Weak Areas** | Areas needing improvement | Groq Llama 3.3 70B |
-| 🚀 **How to Bridge** | Actionable steps to improve | Groq Llama 3.3 70B |
-| 💡 **Career Advice** | Personalized career guidance | Groq Llama 3.3 70B |
+|  **Primary Role Prediction** | Predicts best job role from resume | Random Forest (87.91% accuracy) |
+|  **Role Confidence Score** | Confidence % of role prediction | Random Forest |
+|  **Role Similarity Ranking** | Ranks all 19 roles by resume fit | TF-IDF Cosine Similarity |
+|  **Placement Chance %** | Probability of getting placed | Logistic Regression (83.72% accuracy) |
+|  **Salary Insights** | Average salary for predicted role | LinkedIn Dataset (123K+ jobs) |
+|  **Skills Detection** | Detects skills present in resume | ML Rule-based NLP Pipeline |
+|  **Missing Skills** | Identifies skill gaps for target role | ML Role-Skill Mapping |
+|  **Weak Areas** | Areas needing improvement | Groq Llama 3.3 70B |
+|  **How to Bridge** | Actionable steps to improve | Groq Llama 3.3 70B |
+|  **Career Advice** | Personalized career guidance | Groq Llama 3.3 70B |
 
 ---
 
@@ -193,7 +193,7 @@ JSON response → React displays results
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | Accuracy | Notes |
 |---|---|---|
