@@ -10,7 +10,7 @@ Built with a two-layer ML matching system: a Random Forest classifier (87.91% ac
 
 ##  Demo
 
-📹 **[Watch Demo Video & Screenshots](https://drive.google.com/drive/folders/1uRge6QweVzTFi4lPd63EP9zd4ZC-m-6S?usp=sharing)**
+ **[Watch Demo Video & Screenshots](https://drive.google.com/drive/folders/1uRge6QweVzTFi4lPd63EP9zd4ZC-m-6S?usp=sharing)**
 
 ---
 
