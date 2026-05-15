@@ -1,16 +1,20 @@
-# 🎯 ResumeIQ — AI-Powered Resume Analyzer & Career Advisor
+#  ResumeIQ — AI-Powered Resume Analyzer & Career Advisor
 
-ResumeIQ is a full-stack AI application that analyzes your resume and predicts the best-fit job roles using a trained Random Forest classifier, ranks all suitable roles via TF-IDF cosine similarity, predicts placement probability using Logistic Regression, detects skill gaps through an ML pipeline, and generates personalized career advice using Groq's Llama 3.3 LLM.
+Most job seekers don't know why they're getting rejected. ResumeIQ solves that.
+
+Upload your resume and ResumeIQ instantly tells you which job roles you're best suited for, how likely you are to get placed, exactly which skills you're missing, and what steps to take to land your dream role — all powered by machine learning models trained on 123,000+ real LinkedIn job postings and an LLM for personalized career advice.
+
+Built with a two-layer ML matching system: a Random Forest classifier (87.91% accuracy) predicts your primary role, TF-IDF cosine similarity ranks all 19 suitable roles, Logistic Regression predicts your placement probability, and Groq's Llama 3.3 generates actionable career guidance — all served through a FastAPI backend with a clean React frontend.
 
 ---
 
-## 📸 Demo
+##  Demo
 
 📹 **[Watch Demo Video & Screenshots](https://drive.google.com/drive/folders/1uRge6QweVzTFi4lPd63EP9zd4ZC-m-6S?usp=sharing)**
 
 ---
 
-## 📂 Datasets
+##  Datasets
 
 | Dataset | Download | Size | Used For |
 |---|---|---|---|
@@ -19,7 +23,7 @@ ResumeIQ is a full-stack AI application that analyzes your resume and predicts t
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description | Powered By |
 |---|---|---|
@@ -36,7 +40,7 @@ ResumeIQ is a full-stack AI application that analyzes your resume and predicts t
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User uploads Resume PDF
@@ -78,7 +82,7 @@ extracts text                           │
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Machine Learning
 - **Random Forest Classifier** — Job role prediction (19 classes, 87.91% accuracy)
@@ -106,7 +110,7 @@ extracts text                           │
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.10+
@@ -150,7 +154,7 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🤖 How It Works
+##  How It Works
 
 ### Step 1 — Training Phase (Google Colab)
 ```
@@ -199,7 +203,7 @@ JSON response → React displays results
 
 ---
 
-## 🎓 What I Learned
+##  What I Learned
 
 - End-to-end ML pipeline from data collection to production
 - Multi-class text classification using Random Forest + TF-IDF
@@ -212,7 +216,7 @@ JSON response → React displays results
 
 ---
 
-## 🗺️ Future Improvements
+##  Future Improvements
 
 - [ ] Add BERT-based resume parsing for better skill extraction
 - [ ] Support DOCX resume format
@@ -223,7 +227,5 @@ JSON response → React displays results
 
 ---
 
-
-Made with ❤️ by Kunal Pandey
 
 </div>
